@@ -1,6 +1,6 @@
 # Site: rezka.ag
-import requests
-from bs4 import BeautifulSoup as BS
+import requests # pip install requests
+from bs4 import BeautifulSoup as BS # pip install beautifulsoup4
 from datetime import datetime
 
 r = requests.get('https://rezka.ag/new/')
