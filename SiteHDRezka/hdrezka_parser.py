@@ -17,7 +17,7 @@ def pars(r):
 
     for i in names:
         text = i.get_text(' | ', strip = True)
-        names_list.append(text)
+        names_list.append(text) 
 
     date = datetime.now()
 
