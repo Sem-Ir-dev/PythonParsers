@@ -8,5 +8,5 @@ Site parsers in Python
 - Cartoons      
 - Anime     
 Screenshot:     
-    ![Image alt](https://github.com/Sem-Ir-dev/PythonParsers/blob/main/Screenshots/rezka_screen.png)
+    ![Image alt](https://github.com/Sem-Ir-dev/PythonParsers/blob/main/Screenshots/rezka_screen.png)        
     The program can also save the result to a .txt file. Enjoy using it :)
