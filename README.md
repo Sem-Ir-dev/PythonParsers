@@ -1,12 +1,12 @@
 # PythonParsers
-Site parsers in Python      
-
-<------hdrezka_parser------>        
-    The program parses the site rezka.ag for new items:     
-- Films     
-- Serials       
-- Cartoons      
-- Anime     
+Парсеры сайтов на Python             
+            
+<------hdrezka_parser------>             
+    Программа парсирует сайт rezka.ag на новинки:            
+- Фильмы               
+- Сериалы                 
+- Мультфильмы             
+- Аниме         
+    Программа также может сохранять результат в .txt файл. Приятного использования :)           
 Screenshot:     
     ![Image alt](https://github.com/Sem-Ir-dev/PythonParsers/blob/main/Screenshots/rezka_screen.png)        
-    The program can also save the result to a .txt file. Enjoy using it :)
