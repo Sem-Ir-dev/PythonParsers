@@ -11,10 +11,10 @@
 - Аниме         
     Программа также может сохранять результат в .txt файл. Приятного использования :)           
 Screenshot:     
-    ![Image alt](https://github.com/Sem-Ir-dev/PythonParsers/blob/main/Screenshots/screen3.png)     
+    ![Image alt](https://github.com/Sem-Ir-dev/PythonParsers/blob/main/Screenshots/screen3.PNG)     
 
 <------Парсер книг------>       
     Парсирует сайт fantasy-worlds.org на новинки книг            
 
 Screenshot:     
-    ![Image alt](https://github.com/Sem-Ir-dev/PythonParsers/blob/main/Screenshots/screen2.png)           
+    ![Image alt](https://github.com/Sem-Ir-dev/PythonParsers/blob/main/Screenshots/screen2.PNG)           
